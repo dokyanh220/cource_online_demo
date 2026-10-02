@@ -12,23 +12,23 @@ interface Data {
 
 export const data: Data[] = [
   {
-    title: 'Easy Accessable',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Dễ dàng truy cập',
+    description: 'Học tập mọi lúc mọi nơi trên mọi thiết bị một cách dễ dàng và thuận tiện.',
     icon: <ArtTrackIcon />,
   },
   {
-    title: 'More Affordable Cost',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Chi phí hợp lý hơn',
+    description: 'Tiết kiệm chi phí với các khóa học chất lượng cao và giá cả phải chăng.',
     icon: <AttachMoneyIcon />,
   },
   {
-    title: 'Flexible Study Time',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Thời gian học linh hoạt',
+    description: 'Tự do sắp xếp thời gian học tập phù hợp với lịch trình cá nhân của bạn.',
     icon: <LocalLibraryIcon />,
   },
   {
-    title: 'Consultation With Mentor',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Tư vấn với Giảng viên',
+    description: 'Nhận sự hướng dẫn và giải đáp thắc mắc trực tiếp từ các chuyên gia.',
     icon: <ContactSupportIcon />,
   },
 ]

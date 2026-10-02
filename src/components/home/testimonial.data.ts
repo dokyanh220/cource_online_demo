@@ -3,61 +3,61 @@ import type { Testimonial } from '@/interfaces/testimonial'
 export const data: Array<Testimonial> = [
   {
     id: 1,
-    title: 'Detailed learning materials',
+    title: 'Tài liệu học tập chi tiết',
     content:
-      'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
+      'Các lớp học cung cấp tài liệu rất chi tiết về thiết kế UI/UX, từ việc tạo thiết kế wireframe đến thiết kế chất lượng cao, thiết kế hệ thống, sử dụng bố cục dữ liệu, tạo nguyên mẫu và thử nghiệm.',
     user: {
       id: 1,
       name: 'Luis Sera',
-      professional: 'UI/UX Engineer',
+      professional: 'Kỹ sư UI/UX',
       photo: '1.jpg',
     },
   },
   {
     id: 2,
-    title: 'Best Quality Online Course!',
+    title: 'Khóa học trực tuyến chất lượng nhất!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Khóa học rất hữu ích và mang lại nhiều kiến thức thực tế. Giảng viên hướng dẫn tận tình, giúp tôi nắm bắt kiến thức một cách nhanh chóng và áp dụng ngay vào công việc thực tế của mình.',
     user: {
       id: 1,
       name: 'Riski',
-      professional: 'Software Engineer',
+      professional: 'Kỹ sư Phần mềm',
       photo: '2.jpg',
     },
   },
   {
     id: 3,
-    title: 'Very complete class',
+    title: 'Lớp học rất đầy đủ',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Nội dung khóa học bám sát với thực tế, cung cấp đầy đủ những kiến thức và kỹ năng cần thiết. Tôi đã có thể tự tin xây dựng các ứng dụng hoàn chỉnh sau khi hoàn thành khóa học này.',
     user: {
       id: 1,
       name: 'Nguyễn Văn',
-      professional: 'FullStack Designer',
+      professional: 'Nhà thiết kế FullStack',
       photo: '3.jpg',
     },
   },
   {
     id: 4,
-    title: 'Great Quality!',
+    title: 'Chất lượng tuyệt vời!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Tuyệt vời! Tôi đã học được rất nhiều điều mới mẻ và hữu ích. Phương pháp giảng dạy rất sinh động và dễ hiểu. Rất khuyến khích cho bất kỳ ai muốn nâng cao kỹ năng của mình.',
     user: {
       id: 1,
       name: 'Diana Jordan',
-      professional: 'SEO Expert',
+      professional: 'Chuyên gia SEO',
       photo: '4.jpg',
     },
   },
   {
     id: 5,
-    title: 'Detailed learning materials',
+    title: 'Tài liệu học tập phong phú',
     content:
-      'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
+      'Tài liệu đi kèm khóa học rất phong phú và được tổ chức khoa học. Tôi có thể dễ dàng tra cứu lại kiến thức và thực hành theo các dự án mẫu một cách trực quan nhất.',
     user: {
       id: 1,
       name: 'Ashley Graham',
-      professional: 'Back-End Developer',
+      professional: 'Lập trình viên Back-End',
       photo: '5.jpg',
     },
   },
